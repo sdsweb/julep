@@ -58,4 +58,4 @@ No. Julep re-creates your original image with the text you created in the editor
 
 = Issues/Bugs =
 
-Please report any issues or bugs on the [GitHub Issue Tracker](https://github.com/sdsweb/note/issues/).
+Please report any issues or bugs on the [GitHub Issue Tracker](https://github.com/sdsweb/julep/issues).
